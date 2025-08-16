@@ -82,6 +82,16 @@ The dataset includes:
 
 ---
 
+## 📊 Dashboard Previews
+
+### Tableau Dashboard
+![Tableau Dashboard](Tableau%20Dashboard.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](Powerbi%20Dashboard.png)
+
+---
+
 ## File Structure
 
 ```bash
