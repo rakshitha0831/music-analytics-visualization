@@ -2,6 +2,7 @@
 ![PowerBI](https://img.shields.io/badge/Visualization-PowerBI-yellow)
 ![Data](https://img.shields.io/badge/Data-Music%20Analytics-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 # 🎵 Music Trends Visualization
 
